@@ -1,2 +1,3 @@
 [server]
-port = 8513
+# port = 8513  # local only — Community Cloud assigns its own port
+headless = true
