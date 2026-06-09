@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# Local-only files
+launch.bat
+create_icon.py
+debtfree.ico
+verify_calcs.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
